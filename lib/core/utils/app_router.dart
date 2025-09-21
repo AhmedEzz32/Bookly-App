@@ -3,7 +3,6 @@ import 'package:bookly_app/features/home/data/models/book_model/book_model.dart'
 import 'package:bookly_app/features/home/data/models/repos/home_repo_impl.dart';
 import 'package:bookly_app/features/home/presentation/manger/similar_books_cubit/similar_book_cubit.dart';
 import 'package:bookly_app/features/home/presentation/views/home_view.dart';
-import 'package:bookly_app/features/home/presentation/views/widgets/similar_book_list_view.dart';
 import 'package:bookly_app/features/splash/presentation/views/splash_view.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

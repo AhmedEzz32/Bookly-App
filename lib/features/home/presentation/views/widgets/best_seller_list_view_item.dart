@@ -1,4 +1,4 @@
-import 'package:bookly_app/constant.dart';
+import 'package:bookly_app/core/utils/constant.dart';
 import 'package:bookly_app/core/utils/app_router.dart';
 import 'package:bookly_app/core/utils/style.dart';
 import 'package:bookly_app/features/home/presentation/views/widgets/book_rating.dart';

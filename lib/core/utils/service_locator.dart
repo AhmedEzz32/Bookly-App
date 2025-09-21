@@ -13,6 +13,5 @@ void setup() {
 
 class AuthRepo {
   final ApiService apiService;
-
   AuthRepo(this.apiService);
 }

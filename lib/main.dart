@@ -6,7 +6,7 @@ import 'package:bookly_app/features/home/presentation/manger/newset_books_cubit/
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'constant.dart';
+import 'core/utils/constant.dart';
 
 void main() {
   setup();

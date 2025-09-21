@@ -1,6 +1,5 @@
 import 'package:equatable/equatable.dart';
 
-import 'package:equatable/equatable.dart';
 
 class ImageLinks extends Equatable {
   final String smallThumbnail;
